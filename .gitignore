@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+*.env
+.env
+
+# Config with sensitive credentials — NEVER commit this
+backend/config.json
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Logs & misc
+*.log
+npm-debug.log*
