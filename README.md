@@ -1,5 +1,7 @@
 # AutoBot — Agentic AI Job Applicator
 
+[![GitHub](https://img.shields.io/badge/GitHub-AutoBot--Linkedin--Agent-blue?logo=github)](https://github.com/SamirSengupta/AutoBot-Linkedin-Agent)
+
 > An agentic AI system that autonomously applies to LinkedIn Easy Apply jobs on your behalf, powered by the Groq LLM API and Playwright browser automation.
 
 ---
@@ -36,8 +38,8 @@ Make sure the following are installed on your system:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AutoBotMk1.git
-cd AutoBotMk1
+git clone https://github.com/SamirSengupta/AutoBot-Linkedin-Agent.git
+cd AutoBot-Linkedin-Agent
 ```
 
 ### 2. Set up the Python backend
